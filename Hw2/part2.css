@@ -1,0 +1,8 @@
+body {
+    background-image: url(aqsa.jpeg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: contain;
+    color: rgba(110, 122, 134, 0.884);
+    text-shadow: 2px 2px 2px;
+}
