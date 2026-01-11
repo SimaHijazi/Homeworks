@@ -1,0 +1,28 @@
+nav {
+    background-color: rgb(40, 42, 53);
+    display: inline-flex;
+    width: 100%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    border-right: 1px solid silver;
+}
+
+a:hover {
+    background-color: gray;
+}
+
+a.first {
+    background-color: seagreen;
+}
+
+a.last {
+    align-items: flex-end;
+    position: absolute;
+    right: 8px;
+    border-right: 5px;
+}
